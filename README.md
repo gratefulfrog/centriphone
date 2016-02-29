@@ -18,7 +18,7 @@ Visit [centriphone.me](http://www.centriphone.me)
 Wiki
 ------------
 
-We would love your help expanding our [wiki](https://github.com/centriphone/centriphone/wiki). Share tips, alternative versions, personal experiences and issues encountered while experimenting with the Centriphone filming technique.
+We would love your help expanding our [wiki](https://github.com/nicovuignier/centriphone/wiki). Share tips, alternative versions, personal experiences and issues encountered while experimenting with the Centriphone filming technique.
 
 
 License
