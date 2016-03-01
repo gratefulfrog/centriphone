@@ -1,3 +1,2 @@
 ![](http://i.imgur.com/dpAlHzv.jpg)
-
-Gopro version coming soon!
+![](http://i.imgur.com/lYRfJYY.png)
