@@ -1,4 +1,4 @@
 ![](http://i.imgur.com/dpAlHzv.jpg)
 
-Gopro Version is now available
-![](http://i.imgur.com/lYRfJYY.png)
+Gopro 3, 3+, 4 Version is now available
+![](http://i.imgur.com/adO4jqE.jpg)
