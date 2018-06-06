@@ -1,8 +1,9 @@
 ![](http://i.imgur.com/HI7PKFR.jpg)
 
-
 Welcome to Gratefulfrog's fork of the Centriphone open source repository
 =======================
+
+Following Microsoft's purchase of Github, this project has migrated to gitlab.
 
 Please look at the original repo for all information!
 
